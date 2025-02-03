@@ -10,7 +10,7 @@ I also enjoy climbing and exploring new technologies! 🚀
 [![wakatime](https://wakatime.com/badge/user/80763337-262f-4f5c-a227-c47814875d46.svg)](https://wakatime.com/@80763337-262f-4f5c-a227-c47814875d46)
 ![codewars](https://www.codewars.com/users/R%2Fm16/badges/micro)
 
-<img src="https://github.com/PommePain/PommePain/blob/main/days.gif" />
+<img src="https://github.com/MrWolfeez/MrWolfeez/blob/main/days.gif" />
 
 ## 🛠 What I do and what I use
 
@@ -52,7 +52,3 @@ I also enjoy climbing and exploring new technologies! 🚀
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
-
-<!--<a href="https://github.com/anuraghazra/github-readme-stats">-->
-<!--<img width="44%" src="https://github-readme-stats.vercel.app/api/wakatime?username=0xVanilla&layout=compact&theme=dracula">-->
-</a>
