@@ -3,7 +3,7 @@
 I'm a cybersecurity student and developer, mainly involved in C, Python, and web development, with a passion for cybersecurity. 
 When I have time, I train and learn new things by doing CTFs via Root-me or TryHackMe.
 
-I also enjoy climbing and exploring new technologies! 🚀
+I also love unwinding at the gym or throwing down in Smash Bros! 💪🎮
 
 <img width="40%" src="https://i.pinimg.com/564x/61/b5/fd/61b5fd9ccc338daddd3a05fa3e07ab16.jpg">
 
