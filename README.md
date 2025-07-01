@@ -1,5 +1,16 @@
 ## Hi, I'm MrWolfeez! 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58F8FF&center=true&vCenter=true&width=600&lines=Exploring+Cybersecurity...;Automating+Bug+Bounty+Workflows...;Building+Dynamic+Scanning+Tools...;Collaborating+on+Open+Source...;Passionate+About+Learning!" alt="Dynamic Typing Animation">
+</p>
+<div>
+<img width="337" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXg5bjl2emZiamdibnc2emswMzFjaWhtN2k5djl4ZXV0djh3MmdiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UAgEFVbI24g3NrtbC3/giphy.gif" align=right />
+<br/>
+<img src="./img/AboutMe-elaina.png" width="488" />
+<br/>
+<br/>
+<br/>
+
 I'm a cybersecurity student and developer, mainly involved in C, Python, and web development, with a passion for cybersecurity. 
 When I have time, I train and learn new things by doing CTFs via Root-me or TryHackMe.
 
@@ -7,8 +18,9 @@ I also love unwinding at the gym or throwing down in Smash Bros! 💪🎮
 
 <img width="40%" src="https://private-user-images.githubusercontent.com/74038190/240885606-f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg1OTA3MjUsIm5iZiI6MTczODU5MDQyNSwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODU2MDYtZjYwNjQ2NmYtNGNjOS00Y2IxLThhZDYtODBhN2VlZWE5ZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjAzVDEzNDcwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyNDAwN2JkNGEyNGE2NTUxZDdlZGRlZjQ0MmExNGYxNmM5ZjVhNTJlN2UwMDJiMjlkZTgyMzJlZjdiZDBiMjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8DHZaPDDU-nQpTIkOyIbX5SATzXVx2Z6Xlwgbiash_Y">
 
-[![wakatime](https://wakatime.com/badge/user/80763337-262f-4f5c-a227-c47814875d46.svg)](https://wakatime.com/@ab710f71-39c6-483d-bea6-3fcd50e6b31a)
-![codewars](https://www.codewars.com/users/R%2Fm16/badges/micro)
+<img src="https://www.gifgratis.net/gifs_animes/travaux_en_cours/35.gif" />
+
+
 
 <img src="https://github.com/MrWolfeez/MrWolfeez/blob/main/days.gif" />
 
@@ -71,8 +83,13 @@ I also love unwinding at the gym or throwing down in Smash Bros! 💪🎮
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF2MHNuajY2YXU2bmx0cHVhdG14NHozZGV3OXNoNjRoM3M0ZHc5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nZ9OnDVJoEaLPlVRc1/giphy.gif" width="200" />
+
+<img src="https://tenor.com/fr/view/windows-windows-user-linux-arch-linux-gif-27620390" />
+<img src="https://tenor.com/fr/view/windows-windows-user-linux-arch-linux-gif-27620390" />
+https://tenor.com/fr/view/windows-windows-user-linux-arch-linux-gif-27620390
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQ5MnI3OGk2c2dqb21lN3lnNXdjNmJ1bTMwNzFoNGRjZ3VnYXZyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ICG4WxdKSRzE3K/giphy.gif" />
+
 
 ### 🎓 Certifications
-- PSPO1 for Scrum
-- Preparing for CCNA & LPIC1
-
+<img src="https://www.gifgratis.net/gifs_animes/travaux_en_cours/35.gif" />
