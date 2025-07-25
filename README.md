@@ -21,6 +21,9 @@ I also love unwinding at the gym or throwing down in Smash Bros! 💪🎮
 <img src="https://www.gifgratis.net/gifs_animes/travaux_en_cours/35.gif" />
 
 
+
+<img src="https://github.com/MrWolfeez/MrWolfeez/blob/main/days.gif" />
+
 ## 🐍 Snake eating my contributions
 
 <picture>
@@ -31,6 +34,44 @@ I also love unwinding at the gym or throwing down in Smash Bros! 💪🎮
 
 
 ## 🛠 What I do and what I use
+
+## 🛠️ Favorite Tech
+
+> Outils, langages et environnements que j’aime utiliser.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="48" height="48" alt="Arch" />
+      <br>Arch
+    </td>
+  </tr>
+</table>
+
 
 ### 📖 Currently learning :
 
