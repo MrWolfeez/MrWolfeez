@@ -21,9 +21,6 @@ I also love unwinding at the gym or throwing down in Smash Bros! 💪🎮
 <img src="https://www.gifgratis.net/gifs_animes/travaux_en_cours/35.gif" />
 
 
-
-<img src="https://github.com/MrWolfeez/MrWolfeez/blob/main/days.gif" />
-
 ## 🐍 Snake eating my contributions
 
 <picture>
