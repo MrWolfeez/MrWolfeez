@@ -24,6 +24,15 @@ I also love unwinding at the gym or throwing down in Smash Bros! 💪🎮
 
 <img src="https://github.com/MrWolfeez/MrWolfeez/blob/main/days.gif" />
 
+## 🐍 Snake eating my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrWolfeez/MrWolfeez/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrWolfeez/MrWolfeez/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/MrWolfeez/MrWolfeez/output/github-snake.svg" />
+</picture>
+
+
 ## 🛠 What I do and what I use
 
 ### 📖 Currently learning :
