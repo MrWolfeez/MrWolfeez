@@ -50,7 +50,7 @@ I also love unwinding at the gym or throwing down in Smash Bros! 💪🎮
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
       <br>Rust
     </td>
     <td align="center" width="96">
@@ -66,7 +66,7 @@ I also love unwinding at the gym or throwing down in Smash Bros! 💪🎮
       <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="48" height="48" alt="Arch" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="48" height="48" alt="Arch" />
       <br>Arch
     </td>
   </tr>
