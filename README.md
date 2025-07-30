@@ -1,30 +1,27 @@
-## Hi, I'm MrWolfeez! 👋
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58F8FF&center=true&vCenter=true&width=600&lines=Exploring+Cybersecurity...;Automating+Bug+Bounty+Workflows...;Building+Dynamic+Scanning+Tools...;Collaborating+on+Open+Source...;Passionate+About+Learning!" alt="Dynamic Typing Animation">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Manufacturing+Consent&size=40&pause=1000&color=14FF19&center=true&vCenter=true&width=700&height=100&duration=5000&multiline=false&lines=...you+found+this+place;curiosity+or+mistake%3F;either+way...+you%27re+here.;hello%2C+I+am+Louis+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;cybersecurity+padawan+%E2%80%94+still+learning;CTFs.+root-me.+chaos.+always+chaos.;Smash+Bros%2C+code+%26+%F0%9F%8D%95+%E2%80%94+the+holy+trinity;I+train+at+night+like+a+machine+%F0%9F%92%AA;one+day...+this+will+be+legendary." alt="Typing SVG" />
+  </a>
 </p>
-<div>
-<img width="337" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXg5bjl2emZiamdibnc2emswMzFjaWhtN2k5djl4ZXV0djh3MmdiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UAgEFVbI24g3NrtbC3/giphy.gif" align=right />
-<br/>
-<img src="./img/AboutMe-elaina.png" width="488" />
-<br/>
-<br/>
-<br/>
 
-I'm a cybersecurity student and developer, mainly involved in C, Python, and web development, with a passion for cybersecurity. 
-When I have time, I train and learn new things by doing CTFs via Root-me or TryHackMe.
+-----------------------------------------------------------------------
 
-I also love unwinding at the gym or throwing down in Smash Bros! 💪🎮
+👨‍💻 Young padawan in cybersecurity here! The journey's long, but it’s gonna be fun.
+This is where you’ll find my projects, my progress, and—if you're lucky—some fun stuff along the way! 🎉
 
-<img width="40%" src="https://private-user-images.githubusercontent.com/74038190/240885606-f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg1OTA3MjUsIm5iZiI6MTczODU5MDQyNSwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODU2MDYtZjYwNjQ2NmYtNGNjOS00Y2IxLThhZDYtODBhN2VlZWE5ZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjAzVDEzNDcwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyNDAwN2JkNGEyNGE2NTUxZDdlZGRlZjQ0MmExNGYxNmM5ZjVhNTJlN2UwMDJiMjlkZTgyMzJlZjdiZDBiMjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8DHZaPDDU-nQpTIkOyIbX5SATzXVx2Z6Xlwgbiash_Y">
+I try to participate in CTFs (Capture The Flag) as much as I can, and I’ll be sharing my writeups and experiments here. A personal website is also on the way! 🚧🌐
 
-<img src="https://www.gifgratis.net/gifs_animes/travaux_en_cours/35.gif" />
+When I’m not geeking out on Hearthstone or Smash Bros, I’m chilling with friends, a pizza in hand. 🍕🎮 And to balance out all those screen hours, I hit the gym like a machine every evening. 💪
+
+Welcome to my little world of code, challenges, and good vibes. 🔐✨
+
+-----------------------------------------------------------------------
 
 
 
-<img src="https://github.com/MrWolfeez/MrWolfeez/blob/main/days.gif" />
-
-## 🐍 Snake eating my contributions
+<a href="https://git.io/typing-svg">
+  <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Manufacturing+Consent&size=40&pause=1000&color=14FF19&center=false&vCenter=false&width=600&lines=Snake.exe+is+running...+consuming+commits" alt="Typing SVG" />
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrWolfeez/MrWolfeez/output/github-snake-dark.svg" />
